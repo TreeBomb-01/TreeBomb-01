@@ -16,7 +16,6 @@ jobs:
           filename: github-metrics.svg   # 여기서 리포 루트에 svg 파일 생성됨
           base: header, activity, community, repositories, metadata
 
-          plugin_organizations: yes
           repositories_affiliations: owner, collaborator, organization_member
 
           plugin_languages: yes
