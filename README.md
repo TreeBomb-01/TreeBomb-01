@@ -7,5 +7,5 @@
 
 </div>
 
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical) -->
 
