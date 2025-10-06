@@ -8,8 +8,6 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical) -->
 
----
-
 # 📚 Tech Stack
 
 <div align="center">
@@ -34,8 +32,6 @@
 <!-- OS -->
 <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </div>
-
----
 
 # 📘 Learning
 <div align="center">
