@@ -1,4 +1,4 @@
-# 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical) -->
 
-# 📚 Tech Stack
+<h1 align="center">📚 Tech Stack</h1>
 
 <div align="center">
 
@@ -31,9 +31,11 @@
 <br>
 <!-- OS -->
 <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+
 </div>
 
-# 📘 Learning
+<h1 align="center">📘 Learning</h1>
+
 <div align="center">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
