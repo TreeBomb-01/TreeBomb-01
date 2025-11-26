@@ -2,8 +2,11 @@
 
 <div align="center">
 
-![TreeBomb-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreeBomb-01&show_icons=true&include_orgs=true&theme=radical)
-
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=TreeBomb-01&include_all_commits=true&count_private=true"
+  alt="GitHub stats"
+  height="150"
+  />
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical) -->
