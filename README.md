@@ -8,6 +8,17 @@
   height="150"
   />
 </div>
+<h1 align="center">📊 Baekjoon Stats</h1>
+<div align="center">
+  <a
+    href="https://solved.ac/treebomb"
+  >
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=treebomb"
+      height="180em"
+    />
+  </a>
+</div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeBomb-01&layout=compact&theme=radical) -->
 
