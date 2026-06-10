@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=200&text=Taebum%20Hur&fontSize=58&fontColor=f9fafb&fontAlignY=42&desc=Fullstack%20Developer&descSize=18&descColor=9ca3af&descAlignY=62&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=200&text=Taebum%20Hur&fontSize=58&fontColor=f9fafb&fontAlignY=42&desc=Backend%20Developer&descSize=18&descColor=9ca3af&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=F9FAFB&background=00000000&center=true&vCenter=true&width=520&lines=Backend+%26+Infra+to+Frontend%2C+end-to-end.;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%8B%A8%EC%88%9C%ED%95%98%EA%B2%8C%2C+%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%BC+%EB%B9%A0%EB%A5%B4%EA%B2%8C." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=F9FAFB&background=00000000&center=true&vCenter=true&width=520&lines=Backend+%26+Infra;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%8B%A8%EC%88%9C%ED%95%98%EA%B2%8C%2C+%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%BC+%EB%B9%A0%EB%A5%B4%EA%B2%8C." alt="Typing SVG" />
 
 </div>
 
